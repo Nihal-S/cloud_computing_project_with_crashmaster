@@ -1,0 +1,7 @@
+flask
+requests
+pika
+docker
+schedule
+apscheduler
+kazoo
